@@ -14,7 +14,7 @@ A simple and clean login screen UI built with Flutter. This project serves as a 
 Here's what the app looks.
 
 | Login Page |
-| :---: | :---: |
+| :---: |
 | <img src="screenshots/screenshot_login.png" alt="App Login Page" width="250"/> |
 
 !Simple Login UI Screenshot
